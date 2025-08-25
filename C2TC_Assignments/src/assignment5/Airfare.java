@@ -1,4 +1,4 @@
-package com.tnsif.assignmentfive;
+package assignment5;
 
 public interface Airfare {
 	

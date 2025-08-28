@@ -1,4 +1,4 @@
-package com.tnsif.assignmentsix;
+package assignment6;
 
 public class BankAccount {
 	private int accountNumber;
